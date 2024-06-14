@@ -23,8 +23,12 @@ BaMe collects, processes and uses personal data exclusively in accordance with t
 
 3.3 Unity Ads/other advertisement provider may collect information of the User to provide appropriate ads to the User.
 
-4. IN-APP PAYMENTS
+4. DELETION/MODIFY PERSONAL DATA
 
-4.1 In some Games Apps, we may offer certain additional versions and content for purchase, e.g. the use of an ad-free version of the app. In order to conclude the corresponding contract and the associated payment processing, it is necessary to enter bank details or other payment-related data (e.g. credit card). For payment processing, we use the services provided by the respective operator of the platform through which you have obtained the Games App (for example, Apple, Inc. for the AppStore and Google Ireland Limited for the Google PlayStore). The aforementioned information will be processed accordingly together with the necessary usage data by the operator of the respective platform, insofar as this is necessary to process the payment. Details on the handling of your personal data in connection with the payment processing can be found in the privacy statement of the respective platform operator which can be viewed on the corresponding platform.
+4.1 If for any reason you wish to modify or delete your Personal Information please send us an email to meniamenn@gmail.com, and we will make reasonable efforts to modify or delete any such Personal Information pursuant to any applicable privacy laws.
+
+5. IN-APP PAYMENTS
+
+5.1 In some Games Apps, we may offer certain additional versions and content for purchase, e.g. the use of an ad-free version of the app. In order to conclude the corresponding contract and the associated payment processing, it is necessary to enter bank details or other payment-related data (e.g. credit card). For payment processing, we use the services provided by the respective operator of the platform through which you have obtained the Games App (for example, Apple, Inc. for the AppStore and Google Ireland Limited for the Google PlayStore). The aforementioned information will be processed accordingly together with the necessary usage data by the operator of the respective platform, insofar as this is necessary to process the payment. Details on the handling of your personal data in connection with the payment processing can be found in the privacy statement of the respective platform operator which can be viewed on the corresponding platform.
 
 4.2 The use of these payment services is mandatorily required by the platform operator in order for us to be allowed to offer the app on the respective platform and also serves to provide you with an easy and smooth payment process in the app.
